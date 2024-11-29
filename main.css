@@ -1,0 +1,16 @@
+h1 {
+    font-size: 60px;
+  }
+  .firt_tetx {
+    display: grid;
+    gap: 10px;
+    text-align: left;
+    padding: 90px;
+  }
+  .introducao {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 100px;
+    padding: 40px;
+  }
+  
